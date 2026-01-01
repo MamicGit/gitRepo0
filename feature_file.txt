@@ -1,0 +1,2 @@
+das ist die Datei feature_file.txt fue mein neues branch 'new_feature'
+
